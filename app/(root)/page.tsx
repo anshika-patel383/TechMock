@@ -8,7 +8,7 @@ import React from "react";
 const Page = () => {
   return (
     <>
-      <section className="card-cta">
+      <section className="card-cta ">
         <div className="flex flex-col gap-6 max-w-lg ">
           <h2>Get Interview-Ready with AI-powered Practice & Feedback</h2>
           <p className="text-lg">
